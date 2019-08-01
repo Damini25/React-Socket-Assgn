@@ -1,0 +1,23 @@
+{
+    "ticker": [{
+        "eventDate": "12:56:50 AM",
+        "price": "27.15",
+        "volume": "5",
+        "side": "Ask"
+    },
+    {
+        "eventDate": "12:56:50 AM",
+        "price": "28.15",
+        "volume": "5",
+        "side": "Bid"
+    },
+    {
+        "eventDate": "12:56:50 AM",
+        "price": "37.15",
+        "volume": "5",
+        "side": "Bid"
+    }],
+    "timestamp": 1564580582,
+    "success": true,
+    "error": ""
+}
