@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "websocket": "^1.0.29",
-    "ws": "^6.0.0"
+    "ws": "^7.4.6"
   }
 }
